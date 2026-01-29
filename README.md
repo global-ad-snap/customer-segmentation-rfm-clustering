@@ -326,12 +326,12 @@ Recommendations are framed in **business language**, not technical jargon.
 - **Implementation complexity**: CRM integration and campaign automation require technical resources
 
 ### Important Clarifications
-**What this analysis DOES provide**:
+**What this analysis DOES provide**:  
 ✅ Evidence-based customer differentiation  
 ✅ Clear prioritization framework for resource allocation  
 ✅ Benchmark patterns validated across datasets  
 
-**What this analysis DOES NOT provide**:
+**What this analysis DOES NOT provide**:  
 ❌ Guaranteed revenue uplift (requires A/B testing)  
 ❌ Individual customer predictions (segment-level only)  
 ❌ Causal explanations of purchase drivers  
