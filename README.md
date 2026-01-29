@@ -355,7 +355,7 @@ Recommendations are framed in **business language**, not technical jargon.
 │   └── 05_customer_personas_business_translation.ipynb
 ├── visuals/
 ├── data/
-├── report/
+├── reports/
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
